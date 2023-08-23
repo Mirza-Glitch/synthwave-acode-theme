@@ -1,0 +1,14 @@
+{
+  "id": "acode.plugin.editorTheme",
+  "name": "Synthwave (Editor Theme)",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "author": {
+    "name": "Mirza Glitch",
+    "email": "mirzaglitch@gmail.com",
+    "github": "Mirza-Glitch"
+  }
+}
