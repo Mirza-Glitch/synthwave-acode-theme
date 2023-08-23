@@ -2,7 +2,7 @@
 
 Description: Experience the nostalgic charm like Synthwave theme of VSCode, now available for Acode Editor.
 
-![screenshot](/blob/main/screenshot.jpg?raw=true)
+![screenshot](https://github.com/Mirza-Glitch/synthwave-acode-theme/blob/main/screenshot.jpg?raw=true)
 
 ## Usage
 
