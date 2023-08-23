@@ -2,7 +2,7 @@
 
 Description: Experience the nostalgic charm like Synthwave theme of VSCode, now available for Acode Editor.
 
-![screenshot](screenshot.jpg)
+![screenshot](./screenshot.jpg)
 
 ## Usage
 
